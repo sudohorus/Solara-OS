@@ -14,13 +14,13 @@
   -->
   
   <p><em>Chasing the Sun, Shaping the Future.</em></p>
-  
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  [![GitHub issues](https://img.shields.io/github/issues/sudohorus/Solara-OS)](https://github.com/sudohorus/Solara-OS/issues)
+
   [![GitHub stars](https://img.shields.io/github/stars/sudohorus/Solara-OS)](https://github.com/sudohorus/Solara-OS/stargazers)
   [![GitHub forks](https://img.shields.io/github/forks/sudohorus/Solara-OS)](https://github.com/sudohorus/Solara-OS/network)
+  <br>
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![GitHub issues](https://img.shields.io/github/issues/sudohorus/Solara-OS)](https://github.com/sudohorus/Solara-OS/issues)
   [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/sudohorus/Solara-OS)
-  [![GitHub release](https://img.shields.io/badge/release-v0.1--alpha-blue)](https://github.com/sudohorus/Solara-OS/releases)
 </div>
 
 ## 🌍 Languages/Idiomas
